@@ -1,0 +1,19 @@
+import java.util.Locale;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		int x, b; 
+		double resultado;
+		
+		x = 5;
+		b = 2;
+		
+		resultado = (double)x / b;
+		
+		System.out.println(resultado);
+
+	}
+
+}

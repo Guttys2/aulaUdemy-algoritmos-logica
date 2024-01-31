@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672498696 source:c:\temp\ws-cb\matrizes problema diagonal negativos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

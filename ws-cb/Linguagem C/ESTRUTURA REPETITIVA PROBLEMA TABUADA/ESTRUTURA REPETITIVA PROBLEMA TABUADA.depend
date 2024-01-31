@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672428387 source:c:\temp\ws-cb\estrutura repetitiva problema tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

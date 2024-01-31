@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672360909 source:c:\temp\ws-cb\estrutura sequencial problema terreno\main.c
+	<stdio.h>
+	<string.h>
+

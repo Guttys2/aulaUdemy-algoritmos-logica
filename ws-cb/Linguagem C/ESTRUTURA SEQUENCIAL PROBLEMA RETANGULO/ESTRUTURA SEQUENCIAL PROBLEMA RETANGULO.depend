@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672361948 source:c:\temp\ws-cb\estrutura sequencial problema retangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

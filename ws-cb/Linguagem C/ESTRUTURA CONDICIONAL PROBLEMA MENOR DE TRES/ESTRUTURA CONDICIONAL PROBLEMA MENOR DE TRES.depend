@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672368122 source:c:\temp\ws-cb\estrutura condicional problema menor de tres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

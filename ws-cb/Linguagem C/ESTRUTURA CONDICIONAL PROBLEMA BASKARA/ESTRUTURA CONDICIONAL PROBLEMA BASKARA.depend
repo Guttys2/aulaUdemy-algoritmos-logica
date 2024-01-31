@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672365715 source:c:\temp\ws-cb\estrutura condicional problema baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
